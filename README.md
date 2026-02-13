@@ -8,7 +8,7 @@ Add the marketplace, then install the plugin:
 
 ```
 /plugin marketplace add heymitch/cowork-bootcamp-session-1
-/plugin install cowork-bootcamp-session-1@cowork-bootcamp-session-1
+/plugin install cowork-bootcamp-session-1@speakeasy-session-1
 ```
 
 One install — all three skills appear automatically.
