@@ -1,0 +1,10 @@
+{
+  "name": "business-blueprint",
+  "version": "1.0.0",
+  "description": "Interactive interview that builds a personalized agent config and CLAUDE.md so the agent knows who you are, what your business does, and how to help you. Run this right after setting up your system prompt.",
+  "author": {
+    "name": "Speakeasy"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["cowork", "bootcamp", "session-1"]
+}

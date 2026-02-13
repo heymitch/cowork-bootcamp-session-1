@@ -1,0 +1,10 @@
+{
+  "name": "system-prompt-settings",
+  "version": "1.0.0",
+  "description": "One-time system prompt setup for Claude Cowork — paste a prompt into your Claude app so it knows how to work with you",
+  "author": {
+    "name": "Speakeasy"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["cowork", "bootcamp", "session-1"]
+}
