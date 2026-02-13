@@ -4,9 +4,14 @@ Your first session. Set up your agent, teach it who you are, and watch it organi
 
 ## Install
 
+Add the marketplace, then install the plugin:
+
 ```
 /plugin marketplace add heymitch/cowork-bootcamp-session-1
+/plugin install cowork-bootcamp-session-1@cowork-bootcamp-session-1
 ```
+
+One install — all three skills appear automatically.
 
 ## Skills
 

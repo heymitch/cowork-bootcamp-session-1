@@ -10,22 +10,10 @@
   },
   "plugins": [
     {
-      "name": "system-prompt-settings",
-      "description": "One-time system prompt setup for Claude Cowork — paste a prompt into your Claude app so it knows how to work with you",
+      "name": "cowork-bootcamp-session-1",
+      "description": "Session 1: Setup & Organization. Set up your system prompt, build your business blueprint, and organize your computer with your first agent skills.",
       "version": "1.0.0",
-      "source": "./plugins/system-prompt-settings"
-    },
-    {
-      "name": "business-blueprint",
-      "description": "Interactive interview that builds a personalized agent config and CLAUDE.md so the agent knows who you are, what your business does, and how to help you.",
-      "version": "1.0.0",
-      "source": "./plugins/business-blueprint"
-    },
-    {
-      "name": "organize-machine",
-      "description": "Your first agent skill. Organize files on your computer using GTD principles. Starts with screenshots, expands to your whole desktop and downloads.",
-      "version": "1.0.0",
-      "source": "./plugins/organize-machine"
+      "source": "./plugins/cowork-bootcamp-session-1"
     }
   ]
 }

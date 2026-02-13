@@ -10,6 +10,8 @@ version: 1.0.0
 
 This is the second thing you do after pasting your system prompt settings. It teaches your agent who you are and what your business does. Every other skill works better after this because your agent has real context instead of guessing.
 
+See [Cowork Capabilities](../../products/cowork-bootcamp/cowork-capabilities.md) for what your agent can and can't do.
+
 ---
 
 ## Instructions for the Agent

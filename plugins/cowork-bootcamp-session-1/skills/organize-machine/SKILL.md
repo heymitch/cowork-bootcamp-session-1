@@ -10,6 +10,8 @@ version: 1.0.0
 
 > **How to run:** Tell your agent "Organize my machine"
 
+See [Cowork Capabilities](../../products/cowork-bootcamp/cowork-capabilities.md) for what your agent can and can't do.
+
 ---
 
 ## Instructions for the Agent
