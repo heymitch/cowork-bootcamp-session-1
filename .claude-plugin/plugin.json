@@ -1,0 +1,10 @@
+{
+  "name": "organize-machine",
+  "version": "2.0.0",
+  "description": "Your first agent skill. Organize files using GTD principles — scan screenshots, sort downloads, create folder structures, and run weekly reviews.",
+  "author": {
+    "name": "Speakeasy"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["cowork", "bootcamp", "session-1"]
+}
